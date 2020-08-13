@@ -1,76 +1,67 @@
-<!DOCTYPE html>
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="../../../../favicon.ico">
+# Titre du projet
+_(juste en dessous des badges sympatiques à placer)_
 
-    <title>Narrow Jumbotron Template for Bootstrap</title>
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 
-    <!-- Bootstrap core CSS -->
-    <link href="../../css/editor.css" rel="stylesheet">
+Une petite description du projet
 
-    <!-- Custom styles for this template -->
-    <link href="narrow-jumbotron.css" rel="stylesheet">
-  </head>
+## Pour commencer
 
-  <body>
+Entrez ici les instructions pour bien débuter avec votre projet...
 
-    <div class="container">
-      <div class="header clearfix">
-        <nav>
-          <ul class="nav nav-pills float-right">
-            <li class="nav-item">
-              
-            </li>
-            <li class="nav-item">
-              
-            </li>
-            <li class="nav-item">
-              
-            </li>
-          </ul>
-        </nav>
-        <h3 class="text-muted">Project name</h3>
-      </div>
+### Pré-requis
 
-      <div class="jumbotron">
-        <h1 class="display-3">Jumbotron heading</h1>
-        <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-        <p><a class="btn btn-lg btn-success" href="#" role="button">Sign up today</a></p>
-      </div>
+Ce qu'il est requis pour commencer avec votre projet...
 
-      <div class="row marketing">
-        <div class="col-lg-6">
-          <h4>Subheading</h4>
-          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+- Programme 1
+- Programme 2
+- etc...
 
-          <h4>Subheading</h4>
-          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+### Installation
 
-          <h4>Subheading</h4>
-          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
-        </div>
+Les étapes pour installer votre programme....
 
-        <div class="col-lg-6">
-          <h4>Subheading</h4>
-          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+Dites ce qu'il faut faire...
 
-          <h4>Subheading</h4>
-          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+_exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [...]
 
-          <h4>Subheading</h4>
-          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
-        </div>
-      </div>
 
-      <footer class="footer">
-        <p>© Company 2017</p>
-      </footer>
+Ensuite vous pouvez montrer ce que vous obtenez au final...
 
-    </div> <!-- /container -->
-  
+## Démarrage
 
-</body>
-</html>
+Dites comment faire pour lancer votre projet
+
+## Fabriqué avec
+
+Entrez les programmes/logiciels/ressources que vous avez utilisé pour développer votre projet
+
+_exemples :_
+* [Materialize.css](http://materializecss.com) - Framework CSS (front-end)
+* [Atom](https://atom.io/) - Editeur de textes
+
+## Contributing
+
+Si vous souhaitez contribuer, lisez le fichier [CONTRIBUTING.md](https://example.org) pour savoir comment le faire.
+
+## Versions
+Listez les versions ici 
+_exemple :_
+**Dernière version stable :** 5.0
+**Dernière version :** 5.1
+Liste des versions : [Cliquer pour afficher](https://github.com/your/project-name/tags)
+_(pour le lien mettez simplement l'URL de votre projets suivi de ``/tags``)_
+
+## Auteurs
+Listez le(s) auteur(s) du projet ici !
+* **Jhon doe** _alias_ [@outout14](https://github.com/outout14)
+
+Lisez la liste des [contributeurs](https://github.com/your/project/contributors) pour voir qui à aidé au projet !
+
+_(pour le lien mettez simplement l'URL de votre projet suivi de ``/contirubors``)_
+
+## License
+
+Ce projet est sous licence ``exemple: WTFTPL`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
+
+
