@@ -1,7 +1,7 @@
 # CharlieSolution
 _(juste en dessous des badges sympatiques à placer)_
 
-[![forthebadge](https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+[![forthebadge](https://icon-icons.com/icons2/2415/PNG/32/bootstrap_plain_logo_icon_146619.png)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 
 Une petite description du projet
 
