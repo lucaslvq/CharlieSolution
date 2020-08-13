@@ -18,7 +18,7 @@ Ceci est un petit crud réaliser pour un test technique dans l'entreprise Charli
 ### Frameworks 
 
 - Laravel
-[![forthebadge](https://icon-icons.com/icons2/2415/PNG/32/bootstrap_plain_logo_icon_146619.png)](http://forthebadge.com) Bootstrap 4
+- [![forthebadge](https://icon-icons.com/icons2/2415/PNG/32/bootstrap_plain_logo_icon_146619.png)](http://forthebadge.com) Bootstrap 4
 - Jquery
 
 
