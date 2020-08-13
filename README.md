@@ -1,13 +1,13 @@
 # CharlieSolution
 _(juste en dessous des badges sympatiques à placer)_
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+[![forthebadge](https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 
 Une petite description du projet
 
-## Pour commencer
+## Description du projet
 
-Technical test carried out for the company Charlie Solution. The request being a CRUD via the PHP Laravel framework.
+Ceci est un petit crud réaliser pour un test technique dans l'entreprise Charlie Solution.
 
 ### Langages
 
