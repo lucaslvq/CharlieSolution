@@ -1,0 +1,118 @@
+/* START COMMUN */
+
+body {
+    background-color: #17a2b8;
+}
+
+.container {
+    background: #ff9b00;
+    padding: 4%;
+    border-top-left-radius: 5rem;
+    border-bottom-left-radius: 5rem;
+    border-top-right-radius: 5rem;
+    border-bottom-right-radius: 5rem;
+}
+
+.icon_return {
+    font-size: 1rem;
+    color: #17a2b8;
+}
+
+.icon_return:hover {
+    font-size: 1rem;
+    color: white;
+}
+
+.fas,
+fa-tools {
+    color: #17a2b8;
+}
+
+.page-link {
+    background-color: #17a2b8;
+    color: white;
+    border-radius: 2rem;
+    margin-left: 0.2rem;
+}
+
+.page-item.active .page-link {
+    background-color: white;
+    color: #17a2b8;
+}
+
+
+/* END COMMUN */
+
+
+/* START TAB */
+
+nav>.nav.nav-tabs {
+    border: none;
+    color: #fff;
+    background: #17a2b8;
+    border-radius: 0;
+}
+
+nav>div a.nav-item.nav-link,
+nav>div a.nav-item.nav-link.active {
+    border: none;
+    padding: 18px 25px;
+    color: #fff;
+    background: #17a2b8;
+    border-radius: 0;
+}
+
+nav>div a.nav-item.nav-link.active:after {
+    content: "";
+    position: relative;
+    bottom: -60px;
+    left: -10%;
+    border: 15px solid transparent;
+    border-top-color: #e74c3c;
+}
+
+.tab-content {
+    background: #fdfdfd;
+    line-height: 25px;
+    border: 1px solid #ddd;
+    border-top: 5px solid #e74c3c;
+    border-bottom: 5px solid #e74c3c;
+    padding: 30px 25px;
+}
+
+nav>div a.nav-item.nav-link:hover,
+nav>div a.nav-item.nav-link:focus {
+    border: none;
+    background: #e74c3c;
+    color: #fff;
+    border-radius: 0;
+    transition: background 0.20s linear;
+}
+
+
+/* END TAB */
+
+
+/* START CARD */
+
+span {
+    font-size: 15px;
+}
+
+.box {
+    padding: 60px 0px;
+}
+
+.box-part {
+    background: #FFF;
+    border-radius: 2rem;
+    padding: 60px 10px;
+    margin: 30px 0px;
+}
+
+.text {
+    margin: 20px 0px;
+}
+
+
+/* END CARD */
